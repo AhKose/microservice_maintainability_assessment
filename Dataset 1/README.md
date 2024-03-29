@@ -94,7 +94,7 @@ To improve the clarity and transparency of our analysis and selection methods, w
 |                           | 87          | zlt-uaa/Client               | 155           | 14                | 2.1429             | 0.1818             | 0.6000             | 8               | M     |
 |                           | 88          | zlt-uaa/Tokens               | 160           | 5                 | 4.0000             | 0.1818             | 0.3000             | 2               | M     |
 |                           | 89          | zlt-uaa/ValidateCode         | 190           | 13                | 2.1538             | 0.1818             | 0.2000             | 6               | M     |
-|                           | 90          | catalogservice               | 177           | 11                | 2.4545             | 1.0000             | 1.6667             | 5               | M     |
+|spring-boot-microservices-series | 90          | catalogservice               | 177           | 11                | 2.4545             | 1.0000             | 1.6667             | 5               | M     |
 | Bootiful Microservices with Spring Boot | 91 | beercatalogservice        | 50            | 2                 | 2.0000             | 1.5000             | 0.0000             | 0               | H     |
 |                           | 92          | edgeservice                  | 59            | 5                 | 2.0000             | 1.5000             | 1.0000             | 0               | H     |
 | vertx-blueprint-microservice | 93       | account/java                | 167           | 14                | 2.0000             | 0.2222             | 0.1111             | 4               | M     |
