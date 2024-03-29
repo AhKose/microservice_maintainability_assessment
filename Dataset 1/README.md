@@ -4,9 +4,7 @@ To enhance the transparency of the analysis and selection procedures, we careful
 
 | Project Name              | New Numbers | Microservice Name            | Lines of Code | Number of Methods | Average Complexity | Granularity NoC/MS | Service Call Ratio | Class Dependecy | Label |
 |---------------------------|-------------|------------------------------|---------------|-------------------|--------------------|--------------------|--------------------|-----------------|-------|
-| Train Ticket
-|---------------------------|-------------|------------------------------|---------------|-------------------|--------------------|--------------------|--------------------|-----------------|-------|
-| 1           | AdminBasicInfoService        | 433           | 42                | 2.0000             | 0.1282             | 0.5641             | 20              | M     |
+| Train Ticket              | 1           | AdminBasicInfoService        | 433           | 42                | 2.0000             | 0.1282             | 0.5641             | 20              | M     |
 |                           | 2           | AdminOrderService            | 195           | 10                | 2.5000             | 0.1026             | 0.1538             | 4               | H     |
 |                           | 3           | ts-admin-route-service       | 149           | 9                 | 2.3333             | 0.1026             | 0.1282             | 3               | H     |
 |                           | 4           | ts-admin-travel-service      | 299           | 14                | 3.1667             | 0.1026             | 0.1538             | 4               | H     |
