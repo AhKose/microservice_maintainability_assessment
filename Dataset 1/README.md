@@ -1,6 +1,6 @@
 # Created Dataset 
 
-To enhance the transparency of the analysis and selection procedures, we carefully recorded the array of services alongside their corresponding service-based metrics. For a comprehensive assessment, we gathered six distinct service-based maintainability metrics spanning 101 microservices across ten diverse projects. These metrics are detailed in the table presented below and can also be found in Dataset 1/Created Dataset Github.xlsx.
+To improve the clarity and transparency of our analysis and selection methods, we carefully documented the micro-services and their corresponding service-based metrics. For a comprehensive assessment, we gathered six distinct service-based maintainability metrics spanning 101 microservices across ten diverse projects. These metrics are detailed in the table presented below and can also be found in Dataset 1/Created Dataset Github.xlsx.
 
 | Project Name              | New Numbers | Microservice Name            | Lines of Code | Number of Methods | Average Complexity | Granularity NoC/MS | Service Call Ratio | Class Dependecy | Label |
 |---------------------------|-------------|------------------------------|---------------|-------------------|--------------------|--------------------|--------------------|-----------------|-------|
