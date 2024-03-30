@@ -1,11 +1,11 @@
 # Outliers Removed Dataset 
 
-The micro-services and their corresponding service-based metrics are given of outliers removed dataset. This dataset contain 76 microservices and their corresponding metrics. These metrics are detailed in the table presented below and can also be found in [Outliers_Removed_Dataset.xlsx]([https://github.com/AhKose/Quality-Analysis/blob/main/Dataset%201/Created%20Dataset%20Github.xlsx](https://github.com/AhKose/Quality-Analysis/blob/main/Dataset%202/Outliers_Removed_Dataset.xlsx)).
+The micro-services and their corresponding service-based metrics are given of outliers removed dataset. This dataset contain 76 microservices and their corresponding metrics. These metrics are detailed in the table presented below and can also be found in [Outliers_Removed_Dataset.xlsx]([https://github.com/AhKose/Quality-Analysis/blob/main/Dataset%202/Outliers_Removed_Dataset.xlsx]).
 
 | MS Number | Microservice Name            | Lines of Code | Number of Methods | Average Complexity | Granularity NoC/MS | Service Call Ratio | Class Dependency | Label |
 |-------------|------------------------------|---------------|-------------------|--------------------|--------------------|--------------------|-----------------|-------|
 
-2           | AdminOrderService            | 195           | 10                | 2.5000             | 0.1026             | 0.1538             | 4               | H     |
+|2           | AdminOrderService            | 195           | 10                | 2.5000             | 0.1026             | 0.1538             | 4               | H     |
 | 3           | ts-admin-route-service       | 149           | 9                 | 2.3333             | 0.1026             | 0.1282             | 3               | H     |
 | 4           | ts-admin-travel-service      | 299           | 14                | 3.1667             | 0.1026             | 0.1538             | 4               | H     |
 | 5           | ts-admin-user-service        | 155           | 10                | 2.2000             | 0.1282             | 0.0769             | 4               | H     |
