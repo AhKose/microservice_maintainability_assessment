@@ -53,7 +53,6 @@ To improve the clarity and transparency of our analysis and selection methods, w
 |                           | 47          | Cardiologidt_Api             | 157           | 12                | 2.6667             | 0.5000             | 0.2500             | 4               | M     |
 |                           | 48          | Medical_Integration          | 277           | 13                | 2.0000             | 0.7500             | 0.1250             | 46              | H     |
 |                           | 49          | Nutrionist_api               | 151           | 11                | 2.7273             | 0.5000             | 0.1250             | 4               | M     |
-|                           | 50          | Fitness_api                  | 609           | 54                | 2.2222             | 1.6250             | 0.5000             | 64               | H     |
 |                           | 50          | Fitness_api                  | 609           | 54                | 2.2222             | 1.6250             | 0.5000             | 64              | H     |
 |                           | 51          | Reactive_calendar_api        | 144           | 9                 | 2.4444             | 0.3750             | 0.0000             | 4               | L     |
 |                           | 52          | Social_Network_Integration   | 372           | 19                | 2.1053             | 1.3750             | 0.1250             | 60              | H     |
