@@ -1,6 +1,6 @@
 # Outliers Removed Dataset 
 
-The micro-services and their corresponding service-based metrics are given of outliers removed dataset. This dataset contain 76 microservices and their corresponding metrics. These metrics are detailed in the table presented below and can also be found in [Outliers_Removed_Dataset.xlsx]([https://github.com/AhKose/Quality-Analysis/blob/main/Dataset%202/Outliers_Removed_Dataset.xlsx]).
+The micro-services and their corresponding service-based metrics are given of outliers removed dataset. This dataset contain 76 microservices and their corresponding metrics. These metrics are detailed in the table presented below and can also be found in [Outliers_Removed_Dataset.xlsx](https://github.com/AhKose/Quality-Analysis/blob/main/Dataset%202/Outliers_Removed_Dataset.xlsx).
 
 | MS Number   | Microservice Name            | Lines of Code | Number of Methods | Average Complexity | Granularity NoC/MS | Service Call Ratio | Class Dependency | Label |
 |-------------|------------------------------|---------------|-------------------|--------------------|--------------------|--------------------|-----------------|--------|
