@@ -2,7 +2,7 @@
 
 To improve the clarity and transparency of our analysis and selection methods, we carefully documented the micro-services and their corresponding service-based metrics. For a comprehensive assessment, we gathered six distinct service-based maintainability metrics spanning 101 microservices across ten diverse projects. These metrics are detailed in the table presented below and can also be found in [Created Dataset Github.xlsx](https://github.com/AhKose/Quality-Analysis/blob/main/Dataset%201/Created%20Dataset%20Github.xlsx).
 
-| Project Name              | New Numbers | Microservice Name            | Lines of Code | Number of Methods | Average Complexity | Granularity NoC/MS | Service Call Ratio | Class Dependecy | Label |
+| Project Name              | MS Number | Microservice Name            | Lines of Code | Number of Methods | Average Complexity | Granularity NoC/MS | Service Call Ratio | Class Dependecy | Label |
 |---------------------------|-------------|------------------------------|---------------|-------------------|--------------------|--------------------|--------------------|-----------------|-------|
 | Train Ticket              | 1           | AdminBasicInfoService        | 433           | 42                | 2.0000             | 0.1282             | 0.5641             | 20              | M     |
 |                           | 2           | AdminOrderService            | 195           | 10                | 2.5000             | 0.1026             | 0.1538             | 4               | H     |
