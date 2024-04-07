@@ -2,7 +2,7 @@
 
 The augmented microservice dataset is given. This dataset contains 760 microservices and their corresponding metrics, clusters, and labels. The layout of the table is presented below and can also be found in [Augmented.xlsx](https://github.com/AhKose/Quality-Analysis/blob/main/Dataset%203/Augmented.xlsx).
 
-| Ms Number | Lines of Code | Number of Methods | Average Complexity | Granulity NoC/MS | Service Call Ratio | Class Dependency | Label | Cluster |
+| Ms Number | Lines of Code | Number of Methods | Average Complexity | Granulity Index | Service Call Ratio | Class Dependency | Label | Cluster |
 |-----------|---------------|-------------------|--------------------|------------------|--------------------|------------------|-------|---------|
 | 1         | 339           | 16                | 3.39114            | 0.20283          | 0.13312            | 4                | L     | 0       |
 | 2         | 236           | 10                | 2.90448            | 0.16060          | 0.09796            | 4                | L     | 0       |
