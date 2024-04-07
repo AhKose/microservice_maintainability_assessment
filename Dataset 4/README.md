@@ -6,14 +6,14 @@ The dataset of oversampled microservice is presented which consists of 101 initi
 # Dataset Overview
 
 ## Initially Created Dataset
-| MS Numbers | Lines of Code | Number of Methods | Average Complexity Node | Granulity NoC/MS | Service Call Ratio | Class Dependency | Label |
+| MS Numbers | Lines of Code | Number of Methods | Average Complexity Node | Granulity Index | Service Call Ratio | Class Dependency | Label |
 |------------|---------------|-------------------|-------------------------|------------------|--------------------|------------------|-------|
 | 1          | 433           | 42                | 2.00000                 | 0.12821          | 0.56410            | 20               | M     |
 | 2          | 195           | 10                | 2.50000                 | 0.10256          | 0.15385            | 4                | H     |
 | 3          | 149           | 9                 | 2.33333                 | 0.10256          | 0.12821            | 3                | H     |
 
 ## Randomly Oversampled New Low Datapoints
-| MS Numbers | Lines of Code | Number of Methods | Average Complexity Node | Granulity NoC/MS | Service Call Ratio | Class Dependency | Label |
+| MS Numbers | Lines of Code | Number of Methods | Average Complexity Node | Granulity Index | Service Call Ratio | Class Dependency | Label |
 |------------|---------------|-------------------|-------------------------|------------------|--------------------|------------------|-------|
 | 102        | 331           | 16                | 4.08696                 | 0.17949          | 0.10256            | 2                | L     |
 | 103        | 218           | 18                | 2.76000                 | 0.25700          | 0.25641            | 8                | L     |
