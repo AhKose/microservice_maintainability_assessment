@@ -9,7 +9,8 @@ This repository presents service-based maintainability metrics for open-source J
 
 # General structure of the proposed method  
 
-![image](https://github.com/AhKose/microservice_maintainability_assessment/assets/48156018/109b953b-63e4-4115-9c05-97e50416f34c)
+![image](https://github.com/user-attachments/assets/1b490067-49e1-4e45-9f16-c8d577fde659)
+
 
 
 # Employed Projects’ details  
