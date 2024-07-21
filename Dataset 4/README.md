@@ -1,6 +1,6 @@
 # Oversampled Dataset 
 
-The dataset of oversampled microservice is presented which consists of 101 initial datasets, and 43 oversampled data points. The overview of the table is presented below and can also be found in [Oversampled_Data.xlsx
+The dataset of oversampled microservice is presented which consists of 101 initial datasets, and 43 oversampled data points. The overview of the table is presented below and can also be found in [Oversampled_Dataset.xlsx
 ](https://github.com/AhKose/microservice_maintainability_assessment/blob/main/Dataset%204/Oversampled_Dataset.xlsx).
 
 # Dataset Overview
