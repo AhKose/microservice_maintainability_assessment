@@ -2,14 +2,11 @@
 
 This repository presents service-based maintainability metrics for open-source Java GitHub projects. Each dataset mentioned in the article is detailed on the shared links and can be also found in related places. 
 
-- **Dataset 1**: Raw dataset with project information, assigned numbers, labels, and metrics.
-- **Dataset 2**: Cleaned dataset.
-- **Dataset 3**: Augmented dataset with created data points, their metrics, labels, and clustering results.
-- **Dataset 4**: Balanced dataset for the fine-tuning process of our proposed transfer learning model.
+- **Dataset**: Raw dataset with project information, assigned numbers, labels, and metrics.
 
 # General structure of the proposed method  
 
-![image](https://github.com/user-attachments/assets/1b490067-49e1-4e45-9f16-c8d577fde659)
+
 
 
 
