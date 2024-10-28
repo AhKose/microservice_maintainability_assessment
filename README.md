@@ -7,7 +7,7 @@ This repository presents service-based maintainability metrics for open-source J
 # General structure of the proposed method  
 
 
-
+![image](https://github.com/user-attachments/assets/89d589ec-e52e-4d15-8840-c89349e57b00)
 
 
 # Employed Projects’ details  
